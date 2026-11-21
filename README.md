@@ -216,4 +216,4 @@ Status      : Booked
 
 ## 📄 License
 
-This project was created for educational purposes. Add a license of your choice (for example MIT) before publishing if you want others to reuse it.
+This project was created for educational purposes.
